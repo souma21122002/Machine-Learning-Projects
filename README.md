@@ -1,28 +1,20 @@
-# Machine-Learning-Projects
+# Machine Learning Projects
 
-Short description of the project.
+This repository contains various machine learning projects. This README file specifically covers the Exploratory Data Analysis (EDA) performed on the Diabetes dataset.
 
-## Installation
+## EDA on Diabetes Dataset
+
+The EDA notebook aims to analyze the Diabetes dataset to extract meaningful insights and visualize the data distributions and relationships.
+
+### Introduction
+
+The `EDA_On_Diabates_Dataset.ipynb` notebook performs an exploratory data analysis on the Diabetes dataset. The primary goal is to understand the distribution and relationships of various features in the dataset, which will help in building predictive models later.
+
+### Usage
+
+To run the notebook, follow these steps:
 
 1. Clone the repository:
-    ```bash
-    git clone https://github.com/your-username/your-repository.git
-    cd your-repository
-    ```
-
-2. Create a virtual environment (optional but recommended):
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows: venv\Scripts\activate
-    ```
-
-3. Install dependencies:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-## Usage
-
-To train the model:
-```bash
-python train.py --data /path/to/data --epochs 10 --batch-size 32
+   ```sh
+   git clone https://github.com/souma21122002/Machine-Learning-Projects.git
+   cd Machine-Learning-Projects
